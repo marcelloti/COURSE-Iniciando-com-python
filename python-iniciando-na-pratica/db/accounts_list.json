@@ -1,0 +1,16 @@
+[
+    {
+        "agency": "0001-01",
+        "password": "123456",
+        "name": "John Doe",
+        "balance": 999989099,
+        "admin": 0
+    },
+    {
+        "agency": "0002-02",
+        "password": "123456",
+        "name": "Jane Doe",
+        "balance": 78.24,
+        "admin": 1
+    }
+]
